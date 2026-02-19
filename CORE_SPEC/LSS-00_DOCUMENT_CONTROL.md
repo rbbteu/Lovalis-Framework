@@ -56,3 +56,13 @@ This specification formalizes the normative kernel of Lovalis v5.1+ (Eternity Ed
 The modular documents within the `CORE_SPEC/` directory constitute the sole canonical normative specification of Lovalis.
 
 Any consolidated or overview documents outside this directory SHALL be considered non-normative summaries unless explicitly stated otherwise.
+
+## Application-Layer Modules (LSS-APP)
+
+This specification includes application-layer modules that govern software artifacts derived from or implementing Lovalis logic:
+
+- LSS-APP-01: Application Governance Layer
+- LSS-APP-02: Pressure Resistance & Anti-Coercion Layer
+- LSS-APP-03: Adaptive Pressure Shield (Hybrid Model)
+- LSS-APP-04: Contextual Reflection Trigger (Descriptive Mode)
+
