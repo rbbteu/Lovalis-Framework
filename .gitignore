@@ -1,0 +1,19 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Archives (keep external)
+*.zip
+*.7z
+
+# Secrets
+.env
